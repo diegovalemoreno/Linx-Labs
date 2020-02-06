@@ -29,7 +29,7 @@
 
 ## <a name="parte2">2 - Arrays (map, filter, reduce)</a>
 
-
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/array.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
 
