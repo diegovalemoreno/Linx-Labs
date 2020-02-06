@@ -1,4 +1,4 @@
-<h1> Classe </h1>
+<h1> Classes </h1>
 <p>
 Então vamos adicionar uma classe que é um das features da versão mais recente no ECS6+ acompanhe na imagem abaixo, dentro do main.js reescreva o código da seguinte forma:
 </p><br>
