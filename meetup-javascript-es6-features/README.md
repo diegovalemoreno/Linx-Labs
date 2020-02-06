@@ -6,15 +6,14 @@
 2. [Arrays (map, filter, reduce)](#parte2)     
 3. [Constantes e variáveis de escopo](#parte3)     
 4. [Arrow functions](#parte4)     
-5. [Escopo](#parte5)     
-6. [Valor padrão no parãmetro](#parte6)     
-7. [Desestruturação](#parte7)     
-8. [Operadores Rest e Spread](#parte8)     
-9. [Template literals (variáveis em strings)](#parte9)     
-10. [Short sintaxe](#parte10)     
-11. [Import e Export de módulos](#parte11) 
-12. [Generators](#parte12) 
-13. [Async/Await](#parte13) 
+5. [Parãmetros predefinidos](#parte5)     
+6. [Desestruturação](#parte6)     
+7. [Operadores Rest e Spread](#parte7)     
+8. [Template literals (variáveis em strings)](#parte8)     
+9. [Short sintaxe](#parte9)     
+10. [Import e Export de módulos](#parte10)     
+11. [Generators](#parte11) 
+12. [Async/Await](#parte12) 
 
 ---
 
@@ -54,7 +53,16 @@
 ---
 
 
-## <a name="parte5">5 - Escopo</a>
+## <a name="parte5">5 - Parãmetros predefinidos</a>
+
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/parametros-predefinidos.md "Exemplo de código")
+
+[Voltar ao Índice](#indice)
+
+---
+
+
+## <a name="parte6">6 - Desestruturação</a>
 
 
 
@@ -63,7 +71,7 @@
 ---
 
 
-## <a name="parte6">6 - Valor padrão no parãmetro</a>
+## <a name="parte7">7 - Operadores Rest e Spread</a>
 
 
 
@@ -72,7 +80,7 @@
 ---
 
 
-## <a name="parte7">7 - Desestruturação</a>
+## <a name="parte8">8 - Template literals (variáveis em strings)</a>
 
 
 
@@ -81,7 +89,7 @@
 ---
 
 
-## <a name="parte8">8 - Operadores Rest e Spread</a>
+## <a name="parte9">9 - Short sintaxe</a>
 
 
 
@@ -90,7 +98,7 @@
 ---
 
 
-## <a name="parte9">9 - Template literals (variáveis em strings)</a>
+## <a name="parte10">10 - Import e Export de módulos</a>
 
 
 
@@ -99,7 +107,7 @@
 ---
 
 
-## <a name="parte10">10 - Short sintaxe</a>
+## <a name="parte11">11 - Generators</a>
 
 
 
@@ -108,25 +116,7 @@
 ---
 
 
-## <a name="parte11">11 - Import e Export de módulos</a>
-
-
-
-[Voltar ao Índice](#indice)
-
----
-
-
-## <a name="parte12">12 - Generators</a>
-
-
-
-[Voltar ao Índice](#indice)
-
----
-
-
-## <a name="parte13">13 - Async/Await</a>
+## <a name="parte12">12 - Async/Await</a>
 
 
 
