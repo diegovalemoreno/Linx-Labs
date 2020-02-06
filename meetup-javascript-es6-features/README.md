@@ -47,7 +47,7 @@
 
 ## <a name="parte4">4 - Arrow functions</a>
 
-
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/arrow-functions.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
 
