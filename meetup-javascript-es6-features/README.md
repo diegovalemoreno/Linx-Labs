@@ -38,7 +38,7 @@
 
 ## <a name="parte3">3 - Constantes e variáveis de escopo</a>
 
-
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/const-var-let.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
 
