@@ -20,7 +20,7 @@
 
 ## <a name="parte1">1 - Classes Nativas</a>
 
-
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/edit/master/meetup-javascript-es6-features/README.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
 
