@@ -2,6 +2,7 @@
 
 ## <a name="indice">Índice</a>
 
+0. [Configurando o Babel](#parte0)  
 1. [Classes Nativas](#parte1)     
 2. [Arrays (map, filter, reduce)](#parte2)     
 3. [Constantes e variáveis de escopo](#parte3)     
@@ -10,11 +11,19 @@
 6. [Desestruturação](#parte6)     
 7. [Operadores Rest e Spread](#parte7)     
 8. [Template literals (variáveis em strings)](#parte8)     
-9. [Short sintaxe](#parte9)     
+9. [Short sintaxe](#parte9)
+10. [Webpack](#parte10) 
 10. [Import e Export de módulos](#parte10)     
 11. [Generators](#parte11) 
 12. [Async/Await](#parte12) 
 
+---
+
+## <a name="parte0">1 - Configurando o Babel</a>
+
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/babel.md "Exemplo de código")
+
+[Voltar ao Índice](#indice)
 ---
 
 ## <a name="parte1">1 - Classes Nativas</a>
