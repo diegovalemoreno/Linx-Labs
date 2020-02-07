@@ -19,7 +19,7 @@
 
 ---
 
-## <a name="parte0">1 - Configurando o Babel</a>
+## <a name="parte0">0 - Configurando o Babel</a>
 
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/babel.md "Exemplo de código")
 
