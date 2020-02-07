@@ -13,9 +13,9 @@
 8. [Template literals (variáveis em strings)](#parte8)     
 9. [Short sintaxe](#parte9)
 10. [Webpack](#parte10) 
-10. [Import e Export de módulos](#parte10)     
-11. [Generators](#parte11) 
-12. [Async/Await](#parte12) 
+11. [Import e Export de módulos](#parte11)     
+12. [Generators](#parte12) 
+13. [Async/Await](#parte13) 
 
 ---
 
@@ -107,7 +107,7 @@
 ---
 
 
-## <a name="parte10">10 - Import e Export de módulos</a>
+## <a name="parte10">10 - webpack</a>
 
 
 
@@ -115,6 +115,13 @@
 
 ---
 
+## <a name="parte11">11 - Import e Export de módulos</a>
+
+
+
+[Voltar ao Índice](#indice)
+
+---
 
 ## <a name="parte11">11 - Generators</a>
 
