@@ -109,7 +109,7 @@
 
 ## <a name="parte10">10 - webpack</a>
 
-[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/import-export.md "Exemplo de código")
+
 
 [Voltar ao Índice](#indice)
 
@@ -117,7 +117,7 @@
 
 ## <a name="parte11">11 - Import e Export de módulos</a>
 
-
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/import-export.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
 
