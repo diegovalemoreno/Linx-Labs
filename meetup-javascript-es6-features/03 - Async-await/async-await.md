@@ -61,7 +61,7 @@ Para a programação assíncrona anteriormente utilizavamos promisses que é um 
     }
     
 	
-### A partir do ES8 nós temos a sintaxa do Async/Await que deixa nosso código muito limpo. Olha a diferença:
+A partir do ES8 nós temos a sintaxa do Async/Await que deixa nosso código muito limpo. Olha a diferença:
 
     const buscarClientesAsync = async () => {
     const response = await (await fetch(url)).json();
@@ -80,3 +80,6 @@ Para a programação assíncrona anteriormente utilizavamos promisses que é um 
     }
     //Agora com Async e then
     buscarClientesAsyncThen();
+	
+
+[Código fonte completo](https://github.com/diegovalemoreno/Linx-Labs/tree/master/meetup-javascript-es6-features/03%20-%20Async-await/async-await "Código fonte completo")
