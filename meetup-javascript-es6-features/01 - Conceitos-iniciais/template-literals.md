@@ -1,10 +1,6 @@
 ### Template literals
 
 **É uma forma de incluir variáveis/constantes/objetos dentro de string no javascript ES6+ tornando-a menos verbosa.
-**
-
-
-
 
       const empresa = 'Linx Sistemas e Consultoria LTDA'
       const ano = 1985
