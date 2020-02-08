@@ -109,8 +109,10 @@
 
 ## <a name="parte10">10 - webpack</a>
 
+#### Configurando o webpack
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando-o-webpack/configurando-webpack.md "Exemplo de código")
 
+#### Configurando webpack-server-dev
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando-o-webpack/webpack-server-dev.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
