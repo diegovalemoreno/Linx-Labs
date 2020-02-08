@@ -12,8 +12,9 @@
 7. [Operadores Rest e Spread](#parte7)     
 8. [Template literals (variáveis em strings)](#parte8)     
 9. [Short sintaxe](#parte9)
-10. [Webpack](#parte10) 
-11. [Import e Export de módulos](#parte11)     
+10. [Import e Export de módulos](#parte10)    
+11. [Webpack](#parte11) 
+ 
 12. [Generators](#parte12) 
 13. [Async/Await](#parte13) 
 
@@ -106,8 +107,15 @@
 
 ---
 
+## <a name="parte10">10 - Import e Export de módulos</a>
 
-## <a name="parte10">10 - webpack</a>
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando-o-webpack/import-export.md "Exemplo de código")
+
+[Voltar ao Índice](#indice)
+
+---
+
+## <a name="parte11">11 - webpack</a>
 
 #### Configurando o webpack
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando-o-webpack/configurando-webpack.md "Exemplo de código")
@@ -119,9 +127,10 @@
 
 ---
 
-## <a name="parte11">11 - Import e Export de módulos</a>
 
-[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando-o-webpack/import-export.md "Exemplo de código")
+## <a name="parte11">11 - Async/Await</a>
+
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/03%20-%20Async-await/async-await.md "Exemplo de código")
 
 [Voltar ao Índice](#indice)
 
@@ -135,11 +144,3 @@
 
 ---
 
-
-## <a name="parte12">12 - Async/Await</a>
-
-
-
-[Voltar ao Índice](#indice)
-
----
