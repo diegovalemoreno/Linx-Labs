@@ -37,6 +37,12 @@ Feita as devidas instalações vamos realizar algumas alterações em nossos arq
 
 Para a programação assíncrona anteriormente utilizavamos promisses que é um recurso muito utilizado. Porém nosso código fica extremamente verboso e de dificil interpretacao quando temos muitas tomadas de decisoes com o resultado na nossa regra de negócio.
 
+Para simular uma API aqui estou usando o pacote [json-server](https://www.npmjs.com/package/json-server "json-server").
+E para deixar ele rodando basta criar um arquivo  como **db.json** (o nome tanto faz mas na chamada tem que passar o nome do arquivo) com os dados que deseja retornar e executar o comando:
+
+json-server --watch db.json -p 3333
+
+
     const url = `http://localhost:3333/customers`;
     const main = document.getElementById("main");
     main.innerHTML = "<p>Carregando...";
@@ -83,3 +89,4 @@ A partir do ES8 nós temos a sintaxa do Async/Await que deixa nosso código muit
 	
 
 [Código fonte completo](https://github.com/diegovalemoreno/Linx-Labs/tree/master/meetup-javascript-es6-features/03%20-%20Async-await/async-await "Código fonte completo")
+
