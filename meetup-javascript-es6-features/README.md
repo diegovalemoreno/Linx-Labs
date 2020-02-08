@@ -109,6 +109,8 @@
 
 ## <a name="parte10">10 - webpack</a>
 
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/01%20-%20Conceitos-iniciais/object-short-syntax.md "Exemplo de código")
+
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando o webpack/configurando-webpack.md "Exemplo de código")
 
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/02%20-%20Configurando o webpack/webpack-server-dev.md "Exemplo de código")
