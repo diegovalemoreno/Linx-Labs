@@ -138,6 +138,7 @@
 
 ## <a name="parte13">13 - Generators</a>
 
+[Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/04%20-%20Generators/functions-generators.md "Exemplo de código")
 
 
 [Voltar ao Índice](#indice)
