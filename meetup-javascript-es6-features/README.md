@@ -128,7 +128,7 @@
 ---
 
 
-## <a name="parte11">12 - Async/Await</a>
+## <a name="parte12">12 - Async/Await</a>
 
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/03%20-%20Async-await/async-await.md "Exemplo de código")
 
