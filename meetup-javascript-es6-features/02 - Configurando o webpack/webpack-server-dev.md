@@ -1,7 +1,7 @@
 
 **  Webpack DevServer**
 
-Vamos começar fazendo algumas alterações em nossa estrutura, primeiro criaremos duas pastas uma nome src e outra com public, depois de criar as pastas vamos adicionar todos os arquivos .js que serão monitorados pelo webpack-dev-server e nesse caso será o main.js já em public ficarão os arquivos que não serão monitorados ou seja o index.htmls
+Vamos começar fazendo algumas alterações em nossa estrutura, primeiro criaremos duas pastas uma nome src e outra com public, depois de criar as pastas vamos adicionar todos os arquivos .js que serão monitorados pelo webpack-dev-server e nesse caso será o main.js já em public ficarão os arquivos que não serão monitorados ou seja o index.html
 
 Com a nova estrutura de pasta que acabamos de definir, vamos alterar o nosso arquivo webpack.config.js para receber essas novas configurações, veja abaxo o que deve ser feito.
 
