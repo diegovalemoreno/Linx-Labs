@@ -14,9 +14,9 @@
 9. [Short sintaxe](#parte9)
 10. [Import e Export de módulos](#parte10)    
 11. [Webpack](#parte11) 
- 
-12. [Generators](#parte12) 
-13. [Async/Await](#parte13) 
+12. [Async/Await](#parte12) 
+13. [Generators](#parte13) 
+
 
 ---
 
@@ -128,7 +128,7 @@
 ---
 
 
-## <a name="parte11">11 - Async/Await</a>
+## <a name="parte11">12 - Async/Await</a>
 
 [Exemplo de código](https://github.com/diegovalemoreno/Linx-Labs/blob/master/meetup-javascript-es6-features/03%20-%20Async-await/async-await.md "Exemplo de código")
 
